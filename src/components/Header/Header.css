@@ -1,3 +1,8 @@
 nav a{
     margin-right: 20px;
 }
+/* active class is et by NavLink dynamically */
+nav a.active{
+    text-decoration: underline;
+    color: purple;
+}
